@@ -7,3 +7,6 @@ Dzire
 
 Apache
 ThunderBird
+
+Wego
+Activa
