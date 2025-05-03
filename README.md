@@ -10,3 +10,8 @@ ThunderBird
 
 Xylo
 Scorpio
+
+Wego
+Activa
+
+Hummer
