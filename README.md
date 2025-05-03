@@ -8,6 +8,9 @@ Dzire
 Apache
 ThunderBird
 
+Xylo
+Scorpio
+
 Wego
 Activa
 
